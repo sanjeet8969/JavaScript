@@ -4,7 +4,7 @@ function x()
     function y()
     {
         console.log(a);
-    }
+    }se
     return y;
 }
 var z=x();
