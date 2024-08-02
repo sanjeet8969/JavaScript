@@ -1,1 +1,1 @@
-console.log("na,aste javascript");
+console.log("namaste javascript");
